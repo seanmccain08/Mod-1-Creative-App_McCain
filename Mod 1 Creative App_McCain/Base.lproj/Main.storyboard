@@ -44,7 +44,7 @@
                                         <rect key="frame" x="0.0" y="141" width="383" height="53.333333333333343"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="70I-P6-z3B">
-                                                <rect key="frame" x="0.0" y="0.0" width="191.66666666666666" height="53.333333333333336"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="191.66666666666666" height="41.333333333333336"/>
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="filled" title="Add Item"/>
                                                 <connections>
